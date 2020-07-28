@@ -1,1 +1,1 @@
-# Sentiment-Analysis-on-Amazon-Alexa-s-Reviews
+# Sentiment-Analysis-using-Amazon-Alexa's-Reviews
