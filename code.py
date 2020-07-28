@@ -33,6 +33,7 @@ dataset.groupby('rating').describe()
 # checking if there is any null data or not
 dataset.isnull().any().any()
 
+
 #Making a new column to detect how long the text messages are:
 dataset['length'] = dataset['verified_reviews'].apply(len)
 dataset.head()
